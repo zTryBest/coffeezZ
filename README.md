@@ -13,3 +13,6 @@ springcloud/netty/webflux
 3.user
 4.integral
 5.social
+
+# 1.项目整体架构和编码风格
+编码风格：
